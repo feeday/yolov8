@@ -45,7 +45,7 @@ conf=0.5 值越小 检测框越多
 iou=0.7  值越小 检测框越少
 ```
 
-## <div align="center">License</div>
+## License
 
 Ultralytics offers two licensing options to accommodate diverse use cases:
 
